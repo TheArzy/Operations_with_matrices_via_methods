@@ -1,0 +1,14 @@
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\bin\Debug\1_5_1_OWM_via_methods.exe.config
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\bin\Debug\1_5_1_OWM_via_methods.exe
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\bin\Debug\1_5_1_OWM_via_methods.pdb
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.csprojAssemblyReference.cache
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.exe
+C:\Users\TheArzy\source\repos\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\bin\Debug\1_5_1_OWM_via_methods.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\bin\Debug\1_5_1_OWM_via_methods.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\bin\Debug\1_5_1_OWM_via_methods.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_1_OWM_via_methods\1_5_1_OWM_via_methods\obj\Debug\1_5_1_OWM_via_methods.pdb
